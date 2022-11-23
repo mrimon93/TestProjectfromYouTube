@@ -12,3 +12,5 @@ if user == "Muzammil":
     print("Welcome Muzammil, We were expecting you")
 else:
     print("Woops wrong person")
+
+print("Hello The new Person then")
